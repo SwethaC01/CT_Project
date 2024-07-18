@@ -23,9 +23,6 @@ Performing comprehensive Exploratory Data Analysis (EDA) and applying Natural La
 ### Visualization: 
 Developing an interactive Streamlit dashboard using Plotly to visualize the population of workers across various industries and geographies, providing clear and actionable insights.
 
-### Policy and Planning Support: 
-Providing updated and accurate data to aid policymakers and planners in making informed decisions regarding employment strategies and economic policies.
-
 ### Presentation of Findings: 
 Creating a detailed PowerPoint presentation summarizing the problem statement, tools used, methodologies, EDA insights, and overall findings to effectively communicate the results of the study
 
@@ -55,6 +52,7 @@ Developing a Streamlit dashboard with Plotly to visually represent the workforce
 
 ### Presentation: 
 Summarizing findings in a PowerPoint presentation to effectively communicate the results and insights.
+
 ## Packages
 The following Python packages are essential for the successful completion of this project:
 
