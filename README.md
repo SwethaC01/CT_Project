@@ -1,6 +1,6 @@
 # CT_Project
 
-# Industrial Human Resource Geo-Visualization 
+# Industrial Human Resource Geo-Visualization New
 
 # Introduction
 
