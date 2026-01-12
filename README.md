@@ -10,7 +10,7 @@ This project seeks to update this information by employing modern data analysis 
 
 The insights gained from this updated classification will be invaluable for policy makers and planners in making informed decisions regarding employment and economic strategies, ensuring they reflect the current industrial landscape of the country.
 
-## Objective
+## Objective for the project
 
 1. The primary objective of the "Industrial Human Resource Geo-Visualization" project is to update and provide an accurate classification of the industrial workforce in India. This involves:
 
