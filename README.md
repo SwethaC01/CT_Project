@@ -10,7 +10,7 @@ This project seeks to update this information by employing modern data analysis 
 
 The insights gained from this updated classification will be invaluable for policy makers and planners in making informed decisions regarding employment and economic strategies, ensuring they reflect the current industrial landscape of the country.
 
-## Objective for the Project Visualization
+## Objective for the Project 
 
 1. The primary objective of the "Industrial Human Resource Geo-Visualization" project is to update and provide an accurate classification of the industrial workforce in India. This involves:
 
@@ -65,3 +65,4 @@ The following Python packages are essential for the successful completion of thi
 7. NLTK: For Natural Language Processing tasks.
 Scikit-learn: For machine learning algorithms and data preprocessing.
 8. OS: For interacting with the operating system to manage files and directories.
+9. Openpyxl: For reading and writing Excel files.
